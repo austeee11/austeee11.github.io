@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on CP site Official</title>
+    <link>https://cpsite.github.io/tags/</link>
+    <description>Recent content in Tags on CP site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 14:21:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://cpsite.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHEM1107</title>
+      <link>https://cpsite.github.io/tags/chem1107/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/chem1107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHEM1108</title>
+      <link>https://cpsite.github.io/tags/chem1108/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/chem1108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEE1101</title>
+      <link>https://cpsite.github.io/tags/eee1101/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/eee1101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEE1102</title>
+      <link>https://cpsite.github.io/tags/eee1102/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/eee1102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MATH1103</title>
+      <link>https://cpsite.github.io/tags/math1103/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/math1103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ME1101</title>
+      <link>https://cpsite.github.io/tags/me1101/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/me1101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ME1102</title>
+      <link>https://cpsite.github.io/tags/me1102/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/me1102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY1105</title>
+      <link>https://cpsite.github.io/tags/phy1105/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/phy1105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHY1106</title>
+      <link>https://cpsite.github.io/tags/phy1106/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/phy1106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>extra</title>
+      <link>https://cpsite.github.io/tags/extra/</link>
+      <pubDate>Wed, 30 Dec 2020 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/tags/extra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on CP site Official</title>
+    <link>https://cpsite.github.io/categories/</link>
+    <description>Recent content in Categories on CP site Official</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 14:21:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://cpsite.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CHEMISTRY</title>
+      <link>https://cpsite.github.io/categories/chemistry/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/categories/chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EEE</title>
+      <link>https://cpsite.github.io/categories/eee/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/categories/eee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MATH</title>
+      <link>https://cpsite.github.io/categories/math/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/categories/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanical</title>
+      <link>https://cpsite.github.io/categories/mechanical/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/categories/mechanical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>https://cpsite.github.io/categories/physics/</link>
+      <pubDate>Sun, 03 Jan 2021 14:21:26 +0800</pubDate>
+      
+      <guid>https://cpsite.github.io/categories/physics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
